@@ -1,0 +1,130 @@
+body{
+	/*background-color:#707070;*/
+	background-color: #A9A9A9;
+	color:#ffffff;
+	font-family: 'Gruppo', cursive;
+	font-size : 20px;
+}
+
+#container{
+	width: 957px;
+	height: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(logo.png);
+}
+
+.rectangle{
+	width: 957px;
+	margin:20px;
+}
+
+.square{
+	width: 100%;
+	float: left;
+
+}
+
+#naglowek{
+	float: left;
+	font-family: 'Lobster', cursive;
+	font-size:70px;
+	width: 600px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#logo{
+	float:left;
+	font-family: 'Gruppo', cursive;
+	font-size: 70px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.kafel1{
+	margin:10px;
+	width:230px;
+	height:142px;
+	/*background-color:#40E0D0;*/
+	background-color: #9ACD32;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	float:left ;
+}
+
+.kafel1:hover{
+	background-color:#8ABC21;
+}
+
+.kafel2{
+
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color: #9ACD32;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	float:left;
+}
+
+.kafel2:hover{
+	background-color:#8ABC21;
+}
+
+.kafel3{
+	margin:10px;
+	width: 230px;
+	height: 142px;
+	background-color: #9ACD32;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	float:left;
+}
+
+.kafel3:hover{
+	background-color:#8ABC21;
+}
+
+.kafel4{
+
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#2F4F4F;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	float: left;
+}
+
+.kafel4:hover{
+	background-color: #1E3E3E;
+}
+
+.fb{
+	margin: 10px;
+	width:105px;
+	height: 142px;
+	background-color:#3B5998; 
+	float: left;
+}
+
+.fb:hover{
+	background-color: #2A4887;
+}
+
+.gmail{
+	margin: 10px;
+	width: 105px;
+	height: 142px;
+	background-color: #dd4b39;
+	float: left;
+}
+
+.gmail:hover{
+	background-color: #cc3a28;
+}
