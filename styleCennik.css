@@ -64,3 +64,18 @@ body{
 	-moz-opacity:0.5;
 	float: left;
 }
+
+.powrot{
+	background-color: #9ACD32;
+	width:115px;
+	margin: 5px;
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+	filter:alpha(opacity=50);
+	opacity: 0.85;
+	-moz-opacity:0.5;
+}
+
+a:visited { 
+    color: white;
+}

@@ -128,3 +128,7 @@ body{
 .gmail:hover{
 	background-color: #cc3a28;
 }
+
+a:visited { 
+    color: white;
+}
