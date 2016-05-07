@@ -18,11 +18,12 @@ body{
 	font-family: 'Lobster', cursive;
 	font-size:70px;
 	width: 957px;
+	font-weight: bold;
 }
 
 .uslugi{
 	width: 438px;
-	margin-top:46px;
+	margin-top:36px;
 	height: 430px;
 	margin-left:20px;	
 	margin-right:20px;	
@@ -36,7 +37,7 @@ body{
 
 .pomysl{
 	width: 438px;	
-	margin-top:46px;
+	margin-top:36px;
 	height: 430px;
 	margin-left:20px;	
 	margin-right:20px;	
@@ -49,7 +50,6 @@ body{
 }
 
 .powrot{
-	background-color: #9ACD32;
 	width:115px;
 	margin-left:20px;
 	font-family: 'Lobster', cursive;
@@ -60,6 +60,8 @@ body{
 	-moz-opacity:0.5;
 }
 
-a:visited { 
-    color: white;
+a{
+	color: WHITE;
+	text-decoration: none; 
 }
+

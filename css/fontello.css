@@ -57,7 +57,7 @@
  
 .icon-users:before { content: '\e800';font-size: 90px; margin-top: 10px; } /* '' */
 .icon-camera-alt:before { content: '\e801'; font-size: 90px; margin-top: 10px; } /* '' */
-.icon-facebook:before { content: '\e802'; font-size: 76px; margin-top: 32px;} /* '' */
-.icon-google-1:before { content: '\e803'; font-size: 76px;margin-top:32px;} /* '' */
+.icon-facebook:before { content: '\e802'; font-size: 76px; margin-top: 32px;margin-top: 15px;} /* '' */
+.icon-google-1:before { content: '\e803'; font-size: 76px;margin-top:32px;margin-top: 15px;} /* '' */
 .icon-chat:before { content: '\e804'; font-size: 90px; margin-top: 10px; } /* '' */
 .icon-chart-bar:before { content: '\e805'; font-size: 90px; margin-top: 10px; } /* '' */
