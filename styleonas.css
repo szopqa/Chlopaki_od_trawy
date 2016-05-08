@@ -8,6 +8,7 @@ body{
 #container{
 	width: 957px;
 	height: 720px;
+	margin-top: 25px;
 	margin-left: auto;
 	margin-right: auto;
 	background-image: url(logo.png);
@@ -15,49 +16,48 @@ body{
 
 #naglowek{
 	text-align: center;
+	height: 10%;
 	font-family: 'Lobster', cursive;
 	font-size:70px;
-	width: 957px;
+	width: 100%;
 	font-weight: bold;
 }
 
 .uslugi{
-	width: 438px;
-	margin-top:36px;
-	height: 430px;
-	margin-left:20px;	
-	margin-right:20px;	
+	width: 52%;
+	height: 77%;
+	margin-top: 10px;
+	margin-right: 18px;
+	margin-left: 21px;
 	text-align: center;
 	background-color: #9ACD32;
 	filter:alpha(opacity=50);
-	opacity: 0.85;
+	opacity: 0.9;
 	-moz-opacity:0.5;
 	float: left;
 }
 
 .pomysl{
-	width: 438px;	
-	margin-top:36px;
-	height: 430px;
-	margin-left:20px;	
-	margin-right:20px;	
+	width: 42%;	
+	height: 77%;
+	margin-right: 18px;
+	margin-top: 10px;
 	text-align: center;
 	background-color: #9ACD32;
 	filter:alpha(opacity=50);
-	opacity: 0.85;
+	opacity: 0.9;
 	-moz-opacity:0.5;
 	float: left;
 }
 
 .powrot{
 	width:115px;
-	margin-left:20px;
+	height: 40px;
+	margin-top: 1.37%;
 	font-family: 'Lobster', cursive;
-	font-size: 20px;
+	font-size: 40px;
+	font-weight: bold;
 	text-align: center;
-	filter:alpha(opacity=50);
-	opacity: 0.85;
-	-moz-opacity:0.5;
 }
 
 a{
