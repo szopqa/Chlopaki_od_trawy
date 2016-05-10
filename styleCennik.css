@@ -14,7 +14,7 @@ body{
 	background-image: url(logo.png);
 }
 
-#naglowek{
+.naglowek{
 	font-family: 'Lobster', cursive;
 	font-size:70px;
 	margin-left: auto;

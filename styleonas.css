@@ -14,7 +14,7 @@ body{
 	background-image: url(logo.png);
 }
 
-#naglowek{
+.naglowekOnas{
 	text-align: center;
 	height: 10%;
 	font-family: 'Lobster', cursive;
@@ -50,7 +50,7 @@ body{
 	float: left;
 }
 
-.powrot{
+.powrotOnas{
 	width:115px;
 	height: 40px;
 	margin-top: 1.37%;

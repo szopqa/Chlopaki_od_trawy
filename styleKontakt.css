@@ -5,7 +5,7 @@ body{
 	font-size : 20px;
 }
 
-#container{
+#containerKontakt{
 	width: 957px;
 	margin-top: 35px;
 	height: 720px;
@@ -76,7 +76,7 @@ body{
 	float: left;
 }
 
-.powrot{
+.powrotKontakt{
 	margin-top: 145px;
 	font-size: 40px;
 	opacity:1.0; filter:alpha(opacity:20); 
