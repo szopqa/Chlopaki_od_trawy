@@ -14,7 +14,7 @@ body{
 	background-image: url(logo.png);
 }
 
-.naglowek{
+.naglowekCennik{
 	font-family: 'Lobster', cursive;
 	font-size:70px;
 	margin-left: auto;
@@ -36,6 +36,7 @@ body{
 	filter:alpha(opacity=50);
 	opacity: 0.9;
 	-moz-opacity:0.5;
+	border-radius: 5px;
 	float: left;
 }
 
@@ -51,6 +52,7 @@ body{
 	filter:alpha(opacity=50);
 	opacity: 0.9;
 	-moz-opacity:0.5;
+	border-radius: 5px;
 	float: left;
 }
 
@@ -66,10 +68,11 @@ body{
 	filter:alpha(opacity=50);
 	opacity: 0.9;
 	-moz-opacity:0.5;
+	border-radius: 5px;
 	float: left;
 }	
 
-.powrot{
+.powrotCennik{
 	width:115px;
 	margin-top: 115px;
 	font-family: 'Lobster', cursive;

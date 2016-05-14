@@ -1,0 +1,45 @@
+body{
+	background-color: #A9A9A9;
+	color:#ffffff;
+	font-family: 'Gruppo', cursive;
+	font-size : 20px;
+}
+
+#containerGaleria{
+	width: 957px;
+	margin-top: 35px;
+	height: 720px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	background-image: url(logo.png);
+	opacity:0.95; filter:alpha(opacity:20);
+ }
+
+.naglowekGaleria{
+	font-family: 'Lobster', cursive;
+	font-size:70px;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+}
+
+#content{
+	width: 100%;
+}
+
+.galleria{ 
+	width: 957px;
+	height: 520px;
+	margin-top: 25px;
+	background: #000 
+}
+
+.powrotGaleria{
+	width:115px;
+	margin-top: 20px;
+	font-family: 'Lobster', cursive;
+	font-size: 40px;
+}
