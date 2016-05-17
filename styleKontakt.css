@@ -13,7 +13,7 @@ body{
 	margin-right: auto;
 	font-weight: bold;
 	background-image: url(logo.png);
-	opacity:0.95; filter:alpha(opacity:20); 
+	opacity:0.8; filter:alpha(opacity:20); 
 }
 
 .rectangle{
@@ -35,6 +35,7 @@ body{
 	font-size: 80px;
 	float: left;
 	opacity:1.0; filter:alpha(opacity:20); 
+	color: BLACK;
 }
 
 .numerTel{
@@ -42,6 +43,7 @@ body{
 	margin-top: 75px;
 	font-size: 40px;
 	opacity:1.0; filter:alpha(opacity:20); 
+	font-weight: bold;
 	float: left;
 }
 
@@ -51,6 +53,7 @@ body{
 	font-size: 80px;
 	opacity:1.0; filter:alpha(opacity:20); 
 	float: left;
+	color: BLACK;
 }
 
 .adresMail{
@@ -58,6 +61,7 @@ body{
 	margin-top: 75px;
 	font-size: 40px;
 	opacity:1.0; filter:alpha(opacity:20); 
+	font-weight: bold;
 	float: left;
 }
 
@@ -67,12 +71,14 @@ body{
 	font-size: 80px;
 	opacity:1.0; filter:alpha(opacity:20); 
 	float: left;
+	color: BLACK;
 }
 .adresFb{
 	margin-left:50px;
 	margin-top: 80px;
 	font-size: 35px;
 	opacity:1.0; filter:alpha(opacity:20); 
+	font-weight: bold;
 	float: left;
 }
 
